@@ -1,0 +1,8 @@
+# Mac OS
+.DS_Store
+
+# Chache
+__pycache__
+
+# Configuration
+.env
